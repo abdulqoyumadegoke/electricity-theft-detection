@@ -95,7 +95,7 @@ These results demonstrate the effectiveness of combining statistical, machine le
 
 ## Time-Series Anomalies in Electricity Consumption (AL)
 
-![Time-Series Anomalies in Electricity Consumption (AL)](visualizations/time_series.png)
+![Time-Series Anomalies in Electricity Consumption (AL)]([visualizations/time_series.png](https://github.com/abdulqoyumadegoke/electricity-theft-detection/blob/main/time_series.png))
 
 ## ROC Curve
 
