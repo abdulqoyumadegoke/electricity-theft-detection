@@ -89,10 +89,18 @@ These results demonstrate the effectiveness of combining statistical, machine le
 
 ## Visualizations
 
-visualizations/
-├── graphical_representation.png
-├── time_series.png
-├── roc_curve.png
+## Graph Representation of Electricity Consumption Network
+
+![Graph Representation of Electricity Consumption Network](visualizations/graph_representation.png)
+
+## Time-Series Anomalies in Electricity Consumption (AL)
+
+![Time-Series Anomalies in Electricity Consumption (AL)](visualizations/time_series.png)
+
+## ROC Curve
+
+![ROC Curve](visualizations/roc_curve.png)
+
 
 ## Applications
 
