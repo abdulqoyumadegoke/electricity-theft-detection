@@ -46,3 +46,4 @@ This project explores electricity theft detection using machine learning and ano
 
 AbdulQoyum Adegoke Olowookere
 
+# electricity-theft-detection
