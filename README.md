@@ -1,10 +1,34 @@
-# AI-Driven Electricity Theft Detection
+# AI-Driven Electricity Theft Detection Using Machine Learning, Graph Neural Networks, and Hybrid Decision Fusion
 
 ## Overview
 
 Electricity theft remains one of the major causes of revenue loss and operational inefficiency in modern power distribution systems. This project develops a machine learning-based framework for detecting potentially fraudulent electricity consumption patterns using historical consumption data and engineered behavioral features.
 
 The objective is to automatically identify suspicious consumption behavior and support utility providers in prioritizing inspections and reducing non-technical losses.
+
+## Research Publication
+
+This project accompanies the research paper:
+
+**AI-Driven Electricity Theft Detection Using Machine Learning, Graph Neural Networks, and Hybrid Decision Fusion**
+
+**Authors:** AbdulQoyum A. Olowookere, Adewale U. Oguntola, Ebenezer Leke Odekanle
+
+**arXiv Preprint:** https://arxiv.org/abs/2603.14406
+
+### Citation
+
+```bibtex
+@article{olowookere2026electricity,
+  title={AI-Driven Electricity Theft Detection Using Machine Learning, Graph Neural Networks, and Hybrid Decision Fusion},
+  author={Olowookere, AbdulQoyum A. and Oguntola, Adewale U. and Odekanle, Ebenezer Leke},
+  journal={arXiv preprint arXiv:2603.14406},
+  year={2026}
+}
+```
+
+The repository provides the implementation, experiments, visualizations, and evaluation results supporting the findings reported in the paper.
+
 
 ## Key Features
 
@@ -109,8 +133,15 @@ These results demonstrate the effectiveness of combining statistical, machine le
 * Revenue protection
 * Energy consumption analytics
 
-## Author
+## Authors
 
-**Adegoke Olowookere**
+* AbdulQoyum A. Olowookere
+* Adewale U. Oguntola
+* Ebenezer Leke Odekanle
+
+## Contact
+
+For questions, collaborations, or research discussions, please open an issue in this repository or contact the authors through their institutional channels.
+
 
 Machine Learning | Artificial Intelligence | Data Science | Energy Analytics
