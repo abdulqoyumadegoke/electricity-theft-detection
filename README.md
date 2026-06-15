@@ -89,17 +89,17 @@ These results demonstrate the effectiveness of combining statistical, machine le
 
 ## Visualizations
 
-## Graph Representation of Electricity Consumption Network
+### Graph Representation of Electricity Consumption Network
 
-![Graph Representation of Electricity Consumption Network](visualizations/graph_representation.png)
+![Graph Representation of Electricity Consumption Network](graph_representation.png)
 
-## Time-Series Anomalies in Electricity Consumption (AL)
+### Time-Series Anomalies in Electricity Consumption (AL)
 
-![Time-Series Anomalies in Electricity Consumption (AL)]([visualizations/time_series.png](https://github.com/abdulqoyumadegoke/electricity-theft-detection/blob/main/time_series.png))
+![Time-Series Anomalies in Electricity Consumption](time_series.png)
 
-## ROC Curve
+### ROC Curve
 
-![ROC Curve](visualizations/roc_curve.png)
+![ROC Curve](roc_curve.png)
 
 
 ## Applications
